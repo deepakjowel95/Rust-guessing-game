@@ -1,1 +1,4 @@
-This is a number guessing game buit on rust
+#This is a number guessing game built on rust
+
+##Steps to run
+- install rust from  '$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh'
